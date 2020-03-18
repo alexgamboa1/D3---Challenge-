@@ -1,4 +1,4 @@
-// @TODO: YOUR CODE HERE!
+
 const svgWidth = 660;
 const svgHeight = 460;
 
